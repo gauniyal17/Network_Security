@@ -4,6 +4,7 @@ matplotlib
 seaborn
 
 python-dotenv
+pymongo[srv]==3.6
 pymongo
 certifi
 
