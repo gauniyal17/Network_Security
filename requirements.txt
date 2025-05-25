@@ -8,4 +8,6 @@ pymongo[srv]==3.6
 pymongo
 certifi
 
+scikit-learn
+
 #-e .  #This refers to the setup.py file and let all the project configure____ this says go to setup.py and then configure all the project

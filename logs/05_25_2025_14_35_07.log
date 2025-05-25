@@ -1,0 +1,8 @@
+[2025-05-25 14:35:09,186] 15 root - INFO - Initiate the data ingestion
+[2025-05-25 14:35:09,186] 146 root - INFO - Starting data ingestion process
+[2025-05-25 14:35:09,186] 33 root - INFO - Connecting to MongoDB database: Rahul_ML, collection: NetworkData
+[2025-05-25 14:35:12,507] 39 root - INFO - MongoDB connection successful
+[2025-05-25 14:35:12,821] 46 root - INFO - Found 0 documents in collection
+[2025-05-25 14:35:12,822] 71 root - ERROR - Error in export_collection_as_dataframe: No documents found in collection 'NetworkData' in database 'Rahul_ML'
+[2025-05-25 14:35:13,131] 77 root - INFO - MongoDB connection closed
+[2025-05-25 14:35:13,132] 167 root - ERROR - Error in initiate_data_ingestion: Error occured in python script name [C:\ML Projects\Network Security\networksecurity\components\data_ingestion.py] line number [49] error message [No documents found in collection 'NetworkData' in database 'Rahul_ML']
